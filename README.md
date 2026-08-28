@@ -734,4 +734,4 @@ Compare with Expected Output
 This project was developed collaboratively as part of a **Digital Systems Design** course assignment.
 
 - **[@SMousavi7](https://github.com/SMousavi7)**
-- **[@TEAMMATE_GITHUB_USERNAME](https://github.com/TEAMMATE_GITHUB_USERNAME)**
+- **[@mittypitty](https://github.com/mittypitty)**
